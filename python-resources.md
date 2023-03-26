@@ -1,6 +1,8 @@
 # Python Study Resources
 
-## Books
+##
+
+### Beginner
 
 - [Composing Programs (Chapter 1-2)](https://composingprograms.com/) [Free]
   - This is a great book for learning compsci concepts in addition to Python
